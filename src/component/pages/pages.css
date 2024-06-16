@@ -1,0 +1,10 @@
+.active {
+  color: rgb(255, 215, 12);
+  text-decoration: dashed;
+  font-size: 1rem;
+}
+.pageB {
+  padding: 2rem;
+  margin: 2rem;
+  font-size: 2rem;
+}
